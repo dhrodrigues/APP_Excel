@@ -20,5 +20,5 @@ Assim todas as bibliotecas serão instaladas para execução. Após utilizar o P
 
 Esta aplicação é utilizada quando há necessidade de transferência de dados que encontram-se em um arquivo Excel para um arquivo Word que possuem tabelas iguais.
 
-![Exemplo do Excel](imagem/excel.png)
-![Exemplo do Word](imagem/word.png)
+![Exemplo do Excel](excel.png)
+![Exemplo do Word](word.png)
