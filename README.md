@@ -23,8 +23,14 @@ Descreva como seu projeto pode ser usado e forneça exemplos de uso. Se possíve
 
 Esta aplicação é utilizada quando há necessidade de transferencia de dados que encontra-se em um arquivo Excel para um arquivo Word que possuem tabelas iguais 
 
-![Exemplo do Excel](https://imgur.com/TBy4nUQ)
-![Exemplo do Word](https://imgur.com/l5X6qMV)
+Exemplo Word:
+
+![Exemplo do Word](https://i.imgur.com/l5X6qMV.jpg[/img])
+
+
+Exemplo Excel:
+![Exemplo do Excel](https://i.imgur.com/yM3uZik.jpg[/img])
+
 
 ### Contribuição
 
