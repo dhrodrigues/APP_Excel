@@ -1,48 +1,45 @@
+# 👋 Welcome to A Product
 
-## README
+{% hint style="info" %}
+**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+{% endhint %}
 
-Um bom README é uma parte importante de qualquer projeto de software. Ele é a primeira coisa que os usuários irão ver ao procurar por informações sobre seu projeto, portanto é importante que ele seja claro, conciso e informativo. Abaixo seguem algumas dicas para ajudá-lo a criar um bom README.
+## Overview
 
-### Título e Descrição
+Here are a couple of example overviews from products with really great docs:
 
-Aplicação de transferencia excel para word, está aplicação foi baseada em um VBA utilizado porem devido a falta de extensão do VBA em outros sistemas operacionais como MacOS e Linux essa aplicação foi criada para dar maior agilidade e poder de processamento em todos os O.S. 
- 
+> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
+>
+> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
+>
+> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
 
-### Instalação
+> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
+>
+> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
-para instalçaão basta utilizar: 
-pip freeze > requirements.txt
+## Quick links
 
-Assim todas as bibliotecas serão instaladas para excução.
-Após utilizar o Pyinstaller para criar o arquivo excutavel da aplicação
+{% content-ref url="overview/what-we-do.md" %}
+[what-we-do.md](overview/what-we-do.md)
+{% endcontent-ref %}
 
+{% content-ref url="overview/our-features.md" %}
+[our-features.md](overview/our-features.md)
+{% endcontent-ref %}
 
-### Utilização
+## Get Started
 
-Descreva como seu projeto pode ser usado e forneça exemplos de uso. Se possível, inclua capturas de tela para ilustrar a utilização do seu projeto.
+We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-Esta aplicação é utilizada quando há necessidade de transferencia de dados que encontra-se em um arquivo Excel para um arquivo Word que possuem tabelas iguais 
+{% content-ref url="fundamentals/getting-set-up/" %}
+[getting-set-up](fundamentals/getting-set-up/)
+{% endcontent-ref %}
 
-Exemplo Word:
+{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
+[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
+{% endcontent-ref %}
 
-![Exemplo do Word](https://i.imgur.com/l5X6qMV.jpg[/img])
-
-
-Exemplo Excel:
-![Exemplo do Excel](https://i.imgur.com/yM3uZik.jpg[/img])
-
-
-### Contribuição
-
-
-
-### Licença
-
-
-
-### Documentação
-
-
-
-### Contato
-
+{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
+[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
+{% endcontent-ref %}
