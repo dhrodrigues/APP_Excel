@@ -4,7 +4,7 @@
 
 Here are a couple of example overviews from products with really great docs:
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
+> Ola
 >
 > With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
 >
