@@ -1,32 +1,32 @@
-#.readthedocs.yaml
+# .readthedocs.yaml
 # Leia o arquivo de configuração do Documentos
 # Consulte https://docs.readthedocs.io/en/stable/config-file/v2.html para obter detalhes
 
 # Obrigatório
-versão 2
+version: 2
 
 # Defina o sistema operacional, a versão do Python e outras ferramentas que você possa precisar
-construir:
+build:
   os: ubuntu-22.04
-  ferramentas:
-    píton: "3.12"
+  tools:
+    python: "3.12"
     # Você também pode especificar outras versões da ferramenta:
     # nodejs: "19"
-    #ferrugem: "1,64"
+    # rust: "1.64"
     # golang: "1.19"
 
 # Construa a documentação no diretório "docs/" com o Sphinx
-esfinge:
-   configuração: docs/conf.py
+sphinx:
+  configuration: docs/conf.py
 
 # Opcionalmente, crie seus documentos em formatos adicionais, como PDF e ePub
-# formatos:
-#-pdf
-#-epub
+# formats:
+#   - pdf
+#   - epub
 
 # Opcional, mas recomendado, declare os requisitos do Python necessários
 # para construir sua documentação
 # Consulte https://docs.readthedocs.io/en/stable/guides/reproducible-builds.html
-# Pitão:
-#instalar:
-# - requisitos: docs/requirements.txt
+# python:
+#   install:
+#     - requirements: docs/requirements.txt
