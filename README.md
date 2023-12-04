@@ -39,3 +39,5 @@ We've put together some helpful guides for you to get setup with our product qui
 {% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
 [inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
 {% endcontent-ref %}
+
+![Pipeline](https://github.com/lucasmarques73/node-api-heroku/workflows/Pipeline/badge.svg)
