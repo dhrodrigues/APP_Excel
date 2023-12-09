@@ -5,4 +5,4 @@ lxml==4.9.2
 openpyxl==3.1.2
 Pillow==9.5.0
 tqdm==4.65.0
-pyinstaller==5.10.1
+pyinstaller==5.13.1
